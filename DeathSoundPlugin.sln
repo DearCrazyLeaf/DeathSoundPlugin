@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeathSoundPlugin", "DeathSoundPlugin\DeathSoundPlugin.csproj", "{09BD2184-C44D-4383-BE3D-F1B960852196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09BD2184-C44D-4383-BE3D-F1B960852196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BD2184-C44D-4383-BE3D-F1B960852196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BD2184-C44D-4383-BE3D-F1B960852196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BD2184-C44D-4383-BE3D-F1B960852196}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70EED677-2431-4BBE-9298-3135AECB3F67}
+	EndGlobalSection
+EndGlobal
