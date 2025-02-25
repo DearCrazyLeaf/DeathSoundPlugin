@@ -17,7 +17,7 @@
 - **ModuleName:** DeathSoundPlugin  
 - **ModuleVersion:** [EarlyBeta]  
 - **ModuleAuthor:** hlymcn  
-- **ModuleDescription:** Play a custom sound when a player dies.
+- **ModuleDescription:** Play a custom sound when a player dies
 
 ## Usage
 
